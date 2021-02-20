@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm alejandrom13</h1>
 <h3 align="center">A passionate developer from dominican_republic</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandrom13&label=Profile%20views&color=0e75b6&style=flat" alt="alejandrom13" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=alejandrom13&label=Profile%20views&color=0e75b6&style=flat" alt="alejandrom13" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alejandrom13" alt="alejandrom13" /></a> </p>
 
