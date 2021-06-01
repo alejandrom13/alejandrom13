@@ -5,8 +5,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alejandrom13" alt="alejandrom13" /></a> </p>
 
-<a href="https://github-readme-stats.vercel.app/api?username=alejandrom13&show_icons=true&theme=radical"></a>
-
 - 🌱 I’m currently learning **MERN Stack(Mongo DB, Express.js, React.js, Node.js)**
 
 - 👯 I’m looking to collaborate on **interesting projects to fortify my profile**
