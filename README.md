@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **C#, HTML, CSS, JS**
 
-- 📫 How to reach me **alejandromatos1202@gmail.com**
+- 📫 How to reach me **ceo@alejandromatos.me**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/alejandromatos13/](https://www.linkedin.com/in/alejandromatos13/)
 
