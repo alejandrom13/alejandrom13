@@ -34,4 +34,4 @@
 
   
 </br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandrom13&show_icons=true&locale=en&layout=compact" alt="alejandrom13" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrom13&theme=dracula" alt="alejandrom13" /></p>
