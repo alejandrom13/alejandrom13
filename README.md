@@ -9,4 +9,3 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/alejandromatos13/](https://www.linkedin.com/in/alejandromatos13/)
 
-- ⚡ Fun fact **I don't see women as "objects". I consider each to be in a "Class" of her own**
