@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@alejandromatos](https://medium.com/@alejandromatos)
 
-- 💬 Ask me about **Flutter, UI/UX, Web Frameworks**
+- 💬 Ask me about **React, UI/UX, Web Frameworks**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/alejandromatos13/](https://www.linkedin.com/in/alejandromatos13/)
 
